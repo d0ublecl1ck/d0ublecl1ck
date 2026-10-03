@@ -1,7 +1,7 @@
 ### 👋 你好，我是 d0ublecl1ck
 
 <picture>
-  <img src="./profile/stats.svg" align="right" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d0ublecl1ck&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&locale=cn" align="right" width="420" />
 </picture>
 
 工具作者。用 Python / TypeScript / Go / Rust 写 CLI、桌面应用和 AI coding agent 工具链：**ISA**（Issues-as-Code CLI）、**skills-manager**（agent skills 控制平面）、**cpa-plugin-tier-router**（CLIProxyAPI ModelRouter）。
@@ -10,7 +10,7 @@
 <tr>
 <td width="480px" valign="top">
 
-<img width="440" src="./profile/top-langs.svg" />
+<img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ublecl1ck&layout=compact&hide_border=true&langs_count=20&locale=cn" />
 
 </td>
 <td width="700px" valign="top">
