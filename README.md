@@ -24,7 +24,7 @@
 **最近更新**
 
 <!-- recent_updates starts -->
-• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [isa](https://github.com/d0ublecl1ck/isa) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [skills-manager](https://github.com/d0ublecl1ck/skills-manager) — 2026-10-02<br>• [dsh-unarchived-watch](https://github.com/d0ublecl1ck/dsh-unarchived-watch) — 2026-10-02
+• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [isa](https://github.com/d0ublecl1ck/isa) — 2026-10-03<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [skills-manager](https://github.com/d0ublecl1ck/skills-manager) — 2026-10-02
 <!-- recent_updates ends -->
 </td>
 </tr>
