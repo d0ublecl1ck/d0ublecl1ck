@@ -8,15 +8,18 @@
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
-<td width="600px" valign="top">
+<td width="480px" valign="top">
+
+<img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ublecl1ck&layout=compact&hide_border=true&langs_count=8&locale=cn" />
+
+</td>
+<td width="700px" valign="top">
 
 **最新发布**
 
 <!-- recent_releases starts -->
 • [isa v0.1.1](https://github.com/d0ublecl1ck/isa/releases/tag/v0.1.1) — 2026-08-22<br>• [skills-manager latest](https://github.com/d0ublecl1ck/skills-manager/releases/tag/latest) — 2026-01-30
 <!-- recent_releases ends -->
-</td>
-<td width="600px" valign="top">
 
 **最近更新**
 
@@ -26,10 +29,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ublecl1ck&layout=compact&hide_border=true&langs_count=8&locale=cn" />
-</p>
 
 <p align="center">
   <a href="https://d0ublecl1ck.github.io/isa/">项目入口</a> · <a href="https://github.com/d0ublecl1ck?tab=repositories">全部仓库</a> · <a href="https://www.npmjs.com/package/@d0ublecl1ck/isa-cli">npm</a>
