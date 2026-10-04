@@ -24,7 +24,7 @@
 **最近更新**
 
 <!-- recent_updates starts -->
-• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [isa](https://github.com/d0ublecl1ck/isa) — 2026-10-03<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [skills-manager](https://github.com/d0ublecl1ck/skills-manager) — 2026-10-02
+• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-04<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-04<br>• [dsh-session-watch](https://github.com/d0ublecl1ck/dsh-session-watch) — 2026-10-04<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [isa](https://github.com/d0ublecl1ck/isa) — 2026-10-03<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-03
 <!-- recent_updates ends -->
 </td>
 </tr>
