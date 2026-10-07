@@ -24,7 +24,7 @@
 **最近更新**
 
 <!-- recent_updates starts -->
-• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-06<br>• [three-phase-workflow](https://github.com/d0ublecl1ck/three-phase-workflow) — 2026-10-06<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-04<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-04<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03
+• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-07<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-07<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-06<br>• [three-phase-workflow](https://github.com/d0ublecl1ck/three-phase-workflow) — 2026-10-06<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-04<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03
 <!-- recent_updates ends -->
 </td>
 </tr>
