@@ -53,3 +53,9 @@
   <a href="https://d0ublecl1ck.github.io/isa/">项目入口</a> · <a href="https://github.com/d0ublecl1ck?tab=repositories">全部仓库</a> · <a href="https://www.npmjs.com/package/@d0ublecl1ck/isa-cli">npm</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+    <img alt="contribution snake" src="./profile/snake.svg" width="1000">
+  </picture>
+</p>
