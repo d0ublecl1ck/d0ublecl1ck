@@ -10,7 +10,7 @@
 <tr>
 <td width="480px" valign="top">
 
-**语言**（自选）
+**语言**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
