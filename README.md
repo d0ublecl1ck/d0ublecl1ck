@@ -12,24 +12,9 @@
 
 **语言**
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=00599C&style=flat-square">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=flat-square">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=flat-square">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
-</p>
+<img alt="stack" src="https://skillicons.dev/icons?i=py,ts,js,go,rust,c,java,spring,react,vue,flutter,dart,bash,docker" width="540">
 
-<!-- 手动维护：想加/删语言就改上面这几行；顺序即显示顺序 -->
+<!-- 手动维护：改 src 里 i= 后面的列表即可（skillicons.dev） -->
 
 </td>
 <td width="700px" valign="top">
