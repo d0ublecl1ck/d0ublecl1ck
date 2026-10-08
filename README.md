@@ -8,24 +8,17 @@
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
-<td width="480px" valign="top">
+<td width="600px" valign="top">
 
-**语言**
-
-<img alt="stack" src="https://skillicons.dev/icons?i=py,ts,js,go,rust,c,java,spring,react,vue,flutter,dart,bash,docker" width="540">
-
-<!-- 手动维护：改 src 里 i= 后面的列表即可（skillicons.dev） -->
-
-</td>
-<td width="700px" valign="top">
-
-**最新发布**
+**创建**
 
 <!-- recent_releases starts -->
 • [isa v0.1.1](https://github.com/d0ublecl1ck/isa/releases/tag/v0.1.1) — 2026-08-22<br>• [skills-manager latest](https://github.com/d0ublecl1ck/skills-manager/releases/tag/latest) — 2026-01-30
 <!-- recent_releases ends -->
+</td>
+<td width="600px" valign="top">
 
-**最近更新**
+**更新**
 
 <!-- recent_updates starts -->
 • [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-07<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-07<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-06<br>• [three-phase-workflow](https://github.com/d0ublecl1ck/three-phase-workflow) — 2026-10-06<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-04<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03
@@ -37,6 +30,10 @@
 <p align="center">
   <a href="https://d0ublecl1ck.github.io/isa/">项目入口</a> · <a href="https://github.com/d0ublecl1ck?tab=repositories">全部仓库</a> · <a href="https://www.npmjs.com/package/@d0ublecl1ck/isa-cli">npm</a>
 </p>
+
+**语言**
+
+<img alt="stack" src="https://skillicons.dev/icons?i=py,ts,js,go,rust,c,java,spring,react,vue,flutter,dart,bash,docker" width="1000">
 
 <p align="center">
   <picture>
