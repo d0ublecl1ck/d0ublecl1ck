@@ -13,7 +13,7 @@
 **创建**
 
 <!-- recent_releases starts -->
-• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-09-28<br>• [dsh-skill-dollar](https://github.com/d0ublecl1ck/dsh-skill-dollar) — 2026-09-22
+• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-08<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-09-28
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -21,7 +21,7 @@
 **更新**
 
 <!-- recent_updates starts -->
-• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-08<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-08<br>• [create-project-skill](https://github.com/d0ublecl1ck/create-project-skill) — 2026-10-08<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-08<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-07<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-06
+• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-08<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-08<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-08<br>• [create-project-skill](https://github.com/d0ublecl1ck/create-project-skill) — 2026-10-08<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-08<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-07
 <!-- recent_updates ends -->
 </td>
 </tr>
