@@ -21,6 +21,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=flat-square">
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
   <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=flat-square">
 </p>
