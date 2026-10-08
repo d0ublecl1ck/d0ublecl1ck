@@ -27,32 +27,22 @@ function replaceBlock(md, marker, lines) {
 const repos = (await api(`/users/${USER}/repos?per_page=100&sort=pushed`))
   .filter((r) => !r.fork && !r.archived && r.name !== USER);
 
-const recentLines = repos.slice(0, 6)
-  .map((r) => `• [${r.name}](${r.html_url}) — ${day(r.pushed_at)}`)
+// 更新栏：最近有推送的仓库（pushed_at）
+const byPushed = [...repos].sort((a, b) => String(b.pushed_at).localeCompare(String(a.pushed_at)));
+const recentLines = byPushed.slice(0, 6)
+  .map((r) => '• [' + r.name + '](' + r.html_url + ') — ' + day(r.pushed_at))
   .join('<br>');
 
-const releases = [];
-for (const r of repos.slice(0, 20)) {
-  try {
-    const rel = await api(`/repos/${USER}/${r.name}/releases/latest`);
-    if (rel?.tag_name) {
-      releases.push({ repo: r.name, tag: rel.tag_name, at: rel.published_at });
-    }
-  } catch {
-    // repo without releases -> 404, skip
-  }
-}
-releases.sort((a, b) => String(b.at).localeCompare(String(a.at)));
-
-const releaseLines = releases.length
-  ? releases.slice(0, 6)
-      .map((x) => `• [${x.repo} ${x.tag}](https://github.com/${USER}/${x.repo}/releases/tag/${x.tag}) — ${day(x.at)}`)
+// 创建栏：最近新建的仓库（created_at，与 release 无关）
+const byCreated = [...repos].sort((a, b) => String(b.created_at).localeCompare(String(a.created_at)));
+const createdLines = byCreated.length
+  ? byCreated.slice(0, 6)
+      .map((r) => '• [' + r.name + '](' + r.html_url + ') — ' + day(r.created_at))
       .join('<br>')
-  : '• 暂无发布';
+  : '• 暂无新建';
 
 let md = await readFile(README, 'utf8');
-md = replaceBlock(md, 'recent_releases', releaseLines);
+md = replaceBlock(md, 'recent_releases', createdLines);
 md = replaceBlock(md, 'recent_updates', recentLines);
 await writeFile(README, md);
-console.log('README updated: ' + releases.length + ' releases, ' + Math.min(6, repos.length) + ' recent repos');
-
+console.log('README updated: ' + Math.min(6, byCreated.length) + ' created, ' + Math.min(6, byPushed.length) + ' updated');
