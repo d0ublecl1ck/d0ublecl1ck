@@ -13,7 +13,7 @@
 **创建**
 
 <!-- recent_releases starts -->
-• [dsh-csdn-theme v0.2.3](https://github.com/d0ublecl1ck/dsh-csdn-theme/releases/tag/v0.2.3) — 2026-10-08<br>• [isa v0.1.1](https://github.com/d0ublecl1ck/isa/releases/tag/v0.1.1) — 2026-08-22<br>• [skills-manager latest](https://github.com/d0ublecl1ck/skills-manager/releases/tag/latest) — 2026-01-30
+• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-09-28<br>• [dsh-skill-dollar](https://github.com/d0ublecl1ck/dsh-skill-dollar) — 2026-09-22
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
