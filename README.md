@@ -21,7 +21,7 @@
 **更新**
 
 <!-- recent_updates starts -->
-• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-09<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-09<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-09<br>• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-09<br>• [create-project-skill](https://github.com/d0ublecl1ck/create-project-skill) — 2026-10-08<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-08
+• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-10<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-09<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-09<br>• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-09<br>• [create-project-skill](https://github.com/d0ublecl1ck/create-project-skill) — 2026-10-08<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-08
 <!-- recent_updates ends -->
 </td>
 </tr>
