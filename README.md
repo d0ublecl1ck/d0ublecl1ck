@@ -13,7 +13,7 @@
 **创建**
 
 <!-- recent_releases starts -->
-• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-08<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-09-28
+• [dsh-letterbox](https://github.com/d0ublecl1ck/dsh-letterbox) — 2026-11-01<br>• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-08<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-06<br>• [dsh-csdn-theme](https://github.com/d0ublecl1ck/dsh-csdn-theme) — 2026-10-03<br>• [dsh-search-enhance](https://github.com/d0ublecl1ck/dsh-search-enhance) — 2026-10-03<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-02
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -21,7 +21,7 @@
 **更新**
 
 <!-- recent_updates starts -->
-• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-26<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-24<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-24<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-11<br>• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-10<br>• [create-project-skill](https://github.com/d0ublecl1ck/create-project-skill) — 2026-10-08
+• [dsh-letterbox](https://github.com/d0ublecl1ck/dsh-letterbox) — 2026-11-01<br>• [dsh-flow](https://github.com/d0ublecl1ck/dsh-flow) — 2026-10-26<br>• [dsh-session-radar](https://github.com/d0ublecl1ck/dsh-session-radar) — 2026-10-24<br>• [dsh-hide-empty-workspace](https://github.com/d0ublecl1ck/dsh-hide-empty-workspace) — 2026-10-24<br>• [resumate](https://github.com/d0ublecl1ck/resumate) — 2026-10-11<br>• [incremental-reading-enhance](https://github.com/d0ublecl1ck/incremental-reading-enhance) — 2026-10-10
 <!-- recent_updates ends -->
 </td>
 </tr>
